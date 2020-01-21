@@ -26,6 +26,6 @@ end
 
 def kesha_maker(array)
   array.each do |i|
-    wordmoney = 
+    wordmoney = word
   
    
