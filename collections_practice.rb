@@ -41,12 +41,8 @@ def sum_array(array)
 end
 
 def add_s(array)
-  array.each {|word| word <<
-rrach { |word| word << “\n” }
-  
-  
-  
-
+  array.each {|word| word + "s"}
+end
 
   
    
