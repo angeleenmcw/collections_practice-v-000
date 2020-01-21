@@ -33,7 +33,12 @@ def kesha_maker(array)
 end
 
 def find_a(array)
-  array.first do {|i
+  array.first do {|i| i.include?("a")
+end
+
+def sum_array(array)
+  
+
 
   
    
