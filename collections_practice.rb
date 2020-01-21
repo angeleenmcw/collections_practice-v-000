@@ -28,8 +28,11 @@ def kesha_maker(array)
   array.each do |i|
     wordmoney = i.split("")
     wordmoney[2] = "$"
-    wordmoney.join(" ")
+    wordmoney.join
   end
 end
+
+def find_a(array)
+  array.select{|i| i
   
    
