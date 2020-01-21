@@ -34,6 +34,6 @@ end
 
 def find_a(array)
   array.first do |i|
-    
+
   
    
